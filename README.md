@@ -2,16 +2,16 @@
 
 # :raising_hand:I am
 
-:heavy_check_mark: Duksung univ. computer science
+:arrow_forward: Duksung univ. computer science
 
 
 ###  :lollipop:External activities
 
-:heavy_check_mark: 멋쟁이사자처럼 6기 덕성여대 운영진<br>
-:heavy_check_mark: 아우디폭스바겐 자유학기제 SW보조강사 <br>
-:heavy_check_mark: 한국대학생IT경영학회 19, 20기 교육운영진<br>
-:heavy_check_mark: 야나두 유캔두 앱 서포터즈<br>
-:heavy_check_mark: SOPT 26, 27기 서버파트<br>
+:arrow_forward: 멋쟁이사자처럼 6기 덕성여대 운영진<br>
+:arrow_forward: 아우디폭스바겐 자유학기제 SW보조강사 <br>
+:arrow_forward: 한국대학생IT경영학회 19, 20기 교육운영진<br>
+:arrow_forward: 야나두 유캔두 앱 서포터즈<br>
+:arrow_forward: SOPT 26, 27기 서버파트<br>
 
 
 
