@@ -17,25 +17,25 @@
 
 ### :computer:Project
 
-:heavy_check_mark: 2018 멋쟁이사자처럼 주관 ‘뉴비톤’ – **취미 이상형 월드컵**(hobby cup) https://github.com/kimminji122258/hobbycup-newbie-ton
+1️⃣ 2018 멋쟁이사자처럼 주관 ‘뉴비톤’ – **취미 이상형 월드컵**(hobby cup) https://github.com/kimminji122258/hobbycup-newbie-ton
 
-:heavy_check_mark: 2018 멋쟁이사자처럼 주관 ‘해커톤’ – **냥냥펀치** https://github.com/kimminji122258/nyang2punch-hacker-ton  
+2️⃣ 2018 멋쟁이사자처럼 주관 ‘해커톤’ – **냥냥펀치** https://github.com/kimminji122258/nyang2punch-hacker-ton  
 
-:heavy_check_mark: 인턴십 IoT 프로젝트 – **미세조류  시스템** https://blog.naver.com/kimminji1222/221852457415
+3️⃣ 인턴십 IoT 프로젝트 – **미세조류  시스템** https://blog.naver.com/kimminji1222/221852457415
 
-:heavy_check_mark: 한국대학생IT경영학회 ‘학술제’- **함께 타요**, **따릉이** **2.0** https://github.com/wooyounggggg/Kusitms-Academic
+4️⃣ 한국대학생IT경영학회 ‘학술제’- **함께 타요**, **따릉이** **2.0** https://github.com/wooyounggggg/Kusitms-Academic
 
-:heavy_check_mark: SOPT 26기 ‘솝커톤’ – **또또** https://github.com/SOPT26-Ddo-Ddo/DdoDdo-Server
+5️⃣ SOPT 26기 ‘솝커톤’ – **또또** https://github.com/SOPT26-Ddo-Ddo/DdoDdo-Server
 
-:heavy_check_mark: SOPT 26기 ‘APPJAM’ – **큐링** https://github.com/kimminji122258/qring-public/blob/master/README.md
+6️⃣ SOPT 26기 ‘APPJAM’ – **큐링** https://github.com/kimminji122258/qring-public/blob/master/README.md
 
   **앱스토어/플레이스토어 출시** https://url.kr/5VHhj6 <br>
 
-:heavy_check_mark: 사이드 프로젝트 – **유니뷰**
+7️⃣ 사이드 프로젝트 – **유니뷰**
 
   **앱스토어/플레이스토어 출시** http://www.uni-view.co.kr <br>
   
-:heavy_check_mark: 졸업프로젝트 – **내 손안의 아쿠아포닉스**
+8️⃣ 졸업프로젝트 – **내 손안의 아쿠아포닉스**
 
-:heavy_check_mark: SOPT 27기 ‘솝커톤’ – **인-싸이월드** https://github.com/milkyKim/IN-CYWORLD-SERVER
+9️⃣ SOPT 27기 ‘솝커톤’ – **인-싸이월드** https://github.com/milkyKim/IN-CYWORLD-SERVER
    
