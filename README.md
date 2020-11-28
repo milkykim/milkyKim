@@ -34,6 +34,8 @@
 :heavy_check_mark: 사이드 프로젝트 – **유니뷰**
 
   **앱스토어/플레이스토어 출시** http://www.uni-view.co.kr <br>
+  
+:heavy_check_mark: 졸업프로젝트 – **내 손안의 아쿠아포닉스**
 
 :heavy_check_mark: SOPT 27기 ‘솝커톤’ – **인-싸이월드** https://github.com/milkyKim/IN-CYWORLD-SERVER
    
