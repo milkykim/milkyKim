@@ -27,13 +27,9 @@
 
 SOPT 26기 ‘솝커톤’ 🥈 – **또또** https://github.com/SOPT26-Ddo-Ddo/DdoDdo-Server
 
-SOPT 26기 ‘APPJAM’ 🥇 – **큐링** https://github.com/kimminji122258/qring-public/blob/master/README.md
+SOPT 26기 ‘APPJAM’ 🥇 – **큐링** <a href="https://url.kr/5VHhj6">앱 스토어/플레이스토어 출시</a> <br>
 
- <a href="https://url.kr/5VHhj6">앱 스토어/플레이스토어 출시</a> <br>
-
-사이드 프로젝트 – **유니뷰**
-
- <a href="http://www.uni-view.co.kr">앱 스토어/플레이스토어 출시</a> <br>
+사이드 프로젝트 – **유니뷰** <a href="http://www.uni-view.co.kr">앱 스토어/플레이스토어 출시</a> <br>
   
 졸업프로젝트 🥇 – **내 손안의 아쿠아포닉스**
 
