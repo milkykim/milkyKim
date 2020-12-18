@@ -34,4 +34,6 @@ SOPT 26기 ‘APPJAM’ 🥇 – **큐링** <a href="https://url.kr/5VHhj6">앱 
 졸업프로젝트 🥇 – **내 손안의 아쿠아포닉스**
 
 SOPT 27기 ‘솝커톤’ 🥈 – **인-싸이월드** https://github.com/milkyKim/IN-CYWORLD-SERVER
+
+NH농협은행 챌린지 해커톤 - **POCKIT** 
    
