@@ -5,15 +5,6 @@
 :arrow_forward: Duksung univ. computer science
 
 
-###  :lollipop:External activities
-
-[2017.12 ~ 2018.12] 멋쟁이사자처럼 6기 덕성여대 운영진 <br>
-[2019.03 ~ 2019.09] 아우디폭스바겐 자유학기제 SW보조강사 <br>
-[2019.03 ~ 2019.12] 한국대학생IT경영학회 19, 20기 교육운영진<br>
-[2020.04 ~ 2020.07] 야나두 유캔두 앱 서포터즈<br>
-[2020.04 ~ 2021.02] SOPT 26, 27기 서버파트<br>
-
-
 
 ### :computer:Project
 
