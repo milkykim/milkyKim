@@ -2,8 +2,6 @@
 
 # :raising_hand:I am
 
-:arrow_forward: Duksung univ. computer science
-
 
 
 ### :computer:Project
