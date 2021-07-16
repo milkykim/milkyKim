@@ -26,5 +26,5 @@ SOPT 27기 ‘솝커톤’ 🥈 – **인-싸이월드** https://github.com/milk
 
 NH농협은행 챌린지 해커톤 - **POCKIT** https://github.com/POCKIT-NH
 
-SOPT 28기 ‘APPJAM’ 🥇 – **키핀** 
+SOPT 28기 ‘APPJAM’ 🥇 – **키핀** https://github.com/TeamKeepin/Keepin-SERVER/blob/develop/README.md
    
