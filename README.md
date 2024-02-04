@@ -1,3 +1,3 @@
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkykim&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milkykim&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=milkykim&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=milkykim&theme=nord_dark)
